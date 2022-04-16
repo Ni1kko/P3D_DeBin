@@ -22,7 +22,7 @@ namespace P3D_DeBin
             #endregion
 
             Trace.Listeners.Add((TraceListener)new ConsoleTraceListener());
-            Console.Title = "P3D DeBin | Nikko#0297";
+            Console.Title = "P3D DeBin | github.com/Ni1kko/P3D_DeBin";
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Clear();
